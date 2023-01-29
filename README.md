@@ -1,3 +1,4 @@
 # GCP-ACE-LABS
 
-## [Create and Manage Cloud Resources]()
+### Google Cloud Skills Boost Labs
+ 1) [Create and Manage Cloud Resources](https://github.com/imevanc/gcp-ace-labs/blob/main/CreateAndManageResource.md)
