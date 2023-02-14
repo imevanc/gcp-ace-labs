@@ -1,5 +1,5 @@
 # Create and Manage Cloud Resources - Challenge Lab
-You can find the Create and Manage Cloud Resources Google Cloud Skills Boost lab [here](https://www.cloudskillsboost.google/quests/120)
+You can find the Create and Manage Cloud Resources Qwiklab [here](https://www.cloudskillsboost.google/quests/120)
 
 ## Task 1
 Create a project jumphost instance
